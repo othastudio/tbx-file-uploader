@@ -1,4 +1,4 @@
-<p align="center"><a href="https://tastybox.io" target="_blank"><img src="https://i.postimg.cc/c18rbD99/tastybox-file-uploader.png" width="400" alt="Tastybox Logo"></a></p>
+<p align="center"><a href="https://tastybox.io" target="_blank"><img src="https://i.postimg.cc/c18rbD99/tastybox-file-uploader.png" alt="Tastybox Logo"></a></p>
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
