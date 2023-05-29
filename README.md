@@ -6,6 +6,12 @@
 
 This API provides a seamless solution for uploading and retrieving images within your projects. Developed using Node.js, Express, and Multer, it simplifies the process of handling image uploads and enables effortless integration into both monolithic and microservices architectures.
 
+<p align="center">
+  <a href="https://tastybox.io" target="_blank">
+     <img src="https://s12.gifyu.com/images/SuwMN.gif" alt="tastybox-file-uploader">
+  </a>
+</p>
+
 ## Key Features
 
 - **Effortless Image Upload**: Upload images in various formats (JPEG, PNG, GIF) with ease using Multer.
